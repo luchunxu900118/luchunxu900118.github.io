@@ -1,0 +1,22 @@
+{
+    "enabled": true,
+    "global_message": "",
+    "accounts": {
+        "704314": {
+            "expire_year": 2027,
+            "expire_month": 5,
+            "expire_day": 9,
+            "enabled": true,
+            "max_single_side_orders": 30,
+            "max_reverse_orders": 5,
+            "single_tp_points": 200,
+            "cross_tp_points": 200,
+            "avg_tp_points": 200,
+            "max_single_tp_orders": 3,
+            "switch_to_total_tp": 8,
+            "total_tp_amount": 15,
+            "lock_and_stop_ea": 0,
+            "triple_order_loss": 0
+        }
+    }
+}
